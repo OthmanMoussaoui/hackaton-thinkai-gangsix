@@ -1,5 +1,5 @@
 ## Introduction
-This a project can listen to audio files and return text in multi languages but we add our main language in morocco Darija and it's build within 36 hours in a hackaton at 1337 organizedd by thinkAi https://thinkai.ma/
+This a nlp / asr project that can listen to audio files and return text in multi languages but we add our main language in morocco Darija and it's build within 36 hours in a hackaton at 1337 organizedd by thinkAi https://thinkai.ma/
 Hope you enjoy the model 
 Darija dialect usingfine tuning whisper 
 ## Introduction of tools
